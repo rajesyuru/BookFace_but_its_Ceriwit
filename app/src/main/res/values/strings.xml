@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookFace</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email_enter_hint">Enter email address</string>
+    <string name="username_enter_hint">Enter username</string>
+    <string name="password_enter_hint">Enter password</string>
+    <string name="add_comment">Add comment</string>
+    <string name="logout">Log out</string>
+    <string name="delete_account">Delete account</string>
+    <string name="enter_message">Enter message</string>
+    <string name="submit">Submit</string>
+</resources>

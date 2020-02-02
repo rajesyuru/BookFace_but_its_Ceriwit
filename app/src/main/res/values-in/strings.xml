@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookFace</string>
+    <string name="email_enter_hint">Masukan alamat email</string>
+    <string name="login">Masuk</string>
+    <string name="password_enter_hint">Masukan password</string>
+    <string name="register">Daftar</string>
+    <string name="username_enter_hint">Masukan username</string>
+    <string name="add_comment">Tambahkan komentar</string>
+    <string name="logout">Log out</string>
+    <string name="delete_account">Hapus akun</string>
+    <string name="enter_message">Masukan pesan</string>
+    <string name="submit">Kirim</string>
+</resources>
